@@ -301,6 +301,15 @@ ul.a {
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
+#skills {
+   background: #fff;
+   padding-top: 90px;
+   /* padding-bottom: 72px; */
+   overflow: hidden;
+}
+
+#skills a, #skills a:visited  { color: #1132ec; }
+#skills a:hover, #skills a:focus { color: #313131; }
 
 .bars {
 	width: 95%;
@@ -342,15 +351,6 @@ ul.a {
    border-radius: 3px 0 0 3px;
 }
 
-#skills {
-   background: #fff;
-   padding-top: 90px;
-   /* padding-bottom: 72px; */
-   overflow: hidden;
-}
-
-#skills a, #skills a:visited  { color: #1132ec; }
-#skills a:hover, #skills a:focus { color: #313131; }
 
 .csharp {
    width: 80%;
