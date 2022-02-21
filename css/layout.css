@@ -353,7 +353,7 @@ ul.a {
 
 
 .csharp {
-   width: 80%;
+   width: 70%;
    -moz-animation: csharp 2s ease;
    -webkit-animation: csharp 2s ease;
 }
@@ -407,11 +407,11 @@ ul.a {
 
 @-moz-keyframes csharp {
    0%   { width: 0px;  }
-   100% { width: 80%;  }
+   100% { width: 87%;  }
 }
 @-moz-keyframes python {
    0%   { width: 0px;  }
-   100% { width: 75%;  }
+   100% { width: 50%;  }
 }
 @-moz-keyframes java {
    0%   { width: 0px;  }
@@ -448,11 +448,11 @@ ul.a {
 
 @-webkit-keyframes csharp {
    0%   { width: 0px;  }
-   100% { width: 80%;  }
+   100% { width: 70%;  }
 }
 @-webkit-keyframes python {
    0%   { width: 0px;  }
-   100% { width: 75%;  }
+   100% { width: 50%;  }
 }
 @-webkit-keyframes java {
    0%   { width: 0px;  }
