@@ -394,8 +394,8 @@ ul.a {
 }
 .css {
    width: 20%;
-   -moz-animation: python 2s ease;
-   -webkit-animation: python 2s ease;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
 
 }
 .swift {
