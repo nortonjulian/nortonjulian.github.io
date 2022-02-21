@@ -421,6 +421,10 @@ ul.a {
    0%   { width: 0px;  }
    100% { width: 40%;  }
 }
+@-moz-keyframes sql {
+   0%   { width: 0px;  }
+   100% { width: 40%;  }
+}
 @-moz-keyframes html {
    0%   { width: 0px;  }
    100% { width: 20%;  }
@@ -441,10 +445,6 @@ ul.a {
    0%   { width: 0px;  }
    100% { width: 10%;  }
 }
-@-moz-keyframes sql {
-   0%   { width: 0px;  }
-   100% { width: 40%;  }
-}
 
 @-webkit-keyframes csharp {
    0%   { width: 0px;  }
@@ -459,6 +459,10 @@ ul.a {
    100% { width: 50%;  }
 }
 @-webkit-keyframes javascript {
+   0%   { width: 0px;  }
+   100% { width: 40%;  }
+}
+@-webkit-keyframes sql {
    0%   { width: 0px;  }
    100% { width: 40%;  }
 }
@@ -477,10 +481,6 @@ ul.a {
 @-webkit-keyframes ruby {
    0%   { width: 0px;  }
    100% { width: 10%;  }
-}
-@-webkit-keyframes sql {
-   0%   { width: 0px;  }
-   100% { width: 40%;  }
 }
 @-webkit-keyframes swift {
    0%   { width: 0px;  }
