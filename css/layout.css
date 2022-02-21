@@ -407,7 +407,7 @@ ul.a {
 
 @-moz-keyframes csharp {
    0%   { width: 0px;  }
-   100% { width: 87%;  }
+   100% { width: 70%;  }
 }
 @-moz-keyframes python {
    0%   { width: 0px;  }
