@@ -466,7 +466,7 @@ ul.a {
    0%   { width: 0px;  }
    100% { width: 40%;  }
 }
-@-moz-keyframes html {
+@-webkit-keyframes html {
    0%   { width: 0px;  }
    100% { width: 20%;  }
 }
@@ -474,7 +474,7 @@ ul.a {
    0%   { width: 0px;  }
    100% { width: 20%;  }
 }
-@-moz-keyframes php {
+@-webkit-keyframes php {
    0%   { width: 0px;  }
    100% { width: 10%;  }
 }
