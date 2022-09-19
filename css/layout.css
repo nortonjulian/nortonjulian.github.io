@@ -34,7 +34,7 @@ header {
    min-height: 500px;
    width: 100%;
    background: #161415 url("../images/portfolio/unnamed.jpg") no-repeat top center;
-   background-size: cover !important; 
+   background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
@@ -386,22 +386,6 @@ ul.a {
    width: 20%;
    -moz-animation: css 2s ease;
    -webkit-animation: css 2s ease;
-
-}
-.php {
-   width: 10%;
-   -moz-animation: php 2s ease;
-   -webkit-animation: php 2s ease;
-}
-.ruby {
-   width: 10%;
-   -moz-animation: ruby 2s ease;
-   -webkit-animation: ruby 2s ease;
-}
-.swift {
-   width: 10%;
-   -moz-animation: swift 2s ease;
-   -webkit-animation: swift 2s ease;
 }
 
 
@@ -598,7 +582,7 @@ call-to-action .button {
    color: #0D0D0D;
 }
 #call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif; 
+	font-family: 'opensans-semibold', sans-serif;
 	color: #D8D8D8;
 }
 
@@ -622,7 +606,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;   
+   font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -973,4 +957,3 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #1132ec; }
-
