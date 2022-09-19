@@ -388,14 +388,13 @@ ul.a {
    -webkit-animation: css 2s ease;
 }
 
-
-@-moz-keyframes csharp {
-   0%   { width: 0px;  }
-   100% { width: 50%;  }
-}
 @-moz-keyframes python {
    0%   { width: 0px;  }
    100% { width: 60%;  }
+}
+@-moz-keyframes csharp {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
 }
 @-moz-keyframes java {
    0%   { width: 0px;  }
@@ -418,14 +417,13 @@ ul.a {
    100% { width: 30%;  }
 }
 
-
-@-webkit-keyframes csharp {
-   0%   { width: 0px;  }
-   100% { width: 60%;  }
-}
 @-webkit-keyframes python {
    0%   { width: 0px;  }
    100% { width: 50%;  }
+}
+@-webkit-keyframes csharp {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
 }
 @-webkit-keyframes java {
    0%   { width: 0px;  }
