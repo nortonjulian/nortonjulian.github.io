@@ -411,17 +411,17 @@ ul.a {
 }
 @-moz-keyframes html {
    0%   { width: 0px;  }
-   100% { width: 20%;  }
+   100% { width: 30%;  }
 }
 @-moz-keyframes css {
    0%   { width: 0px;  }
-   100% { width: 20%;  }
+   100% { width: 30%;  }
 }
 
 
 @-webkit-keyframes csharp {
    0%   { width: 0px;  }
-   100% { width: 70%;  }
+   100% { width: 60%;  }
 }
 @-webkit-keyframes python {
    0%   { width: 0px;  }
@@ -441,11 +441,11 @@ ul.a {
 }
 @-webkit-keyframes html {
    0%   { width: 0px;  }
-   100% { width: 20%;  }
+   100% { width: 30%;  }
 }
 @-webkit-keyframes css {
    0%   { width: 0px;  }
-   100% { width: 20%;  }
+   100% { width: 30%;  }
 }
 /* ------------------------------------------------------------------ */
 /* e. Projects Section
