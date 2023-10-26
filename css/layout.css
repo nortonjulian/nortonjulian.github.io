@@ -932,7 +932,7 @@ footer .social-links li:first-child { margin-left: 0; }
 #go-top a:hover { background-color: #1132ec; }
 
 #projects .custom-link {
-   color: black;
+   color: #000;
    text-decoration: none;
 }
 
