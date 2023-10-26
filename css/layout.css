@@ -930,3 +930,12 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #1132ec; }
+
+.custom-link {
+   color: black;
+   text-decoration: none;
+}
+
+.custom-link:hover {
+   color: #1132ec
+}
