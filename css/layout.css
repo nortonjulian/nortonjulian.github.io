@@ -931,11 +931,11 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #1132ec; }
 
-.custom-link {
+#projects .custom-link {
    color: black;
    text-decoration: none;
 }
 
-.custom-link:hover {
+#projects .custom-link:hover {
    color: #1132ec
 }
