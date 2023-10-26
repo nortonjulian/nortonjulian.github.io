@@ -932,12 +932,12 @@ footer .social-links li:first-child { margin-left: 0; }
 #go-top a:hover { background-color: #1132ec; }
 
 #projects .custom-link {
-   color: #000;
-   text-decoration: none;
+   color: #000 !important; /* Start with black color */
+   text-decoration: none !important;
 }
 
 #projects .custom-link:hover {
-   color: #1132ec;
+   color: #1132ec !important; /* Change to #1132ec on hover */
 }
 
 /* .custom-link {
