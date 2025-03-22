@@ -366,6 +366,11 @@ ul.a {
    -moz-animation: sql 2s ease;
    -webkit-animation: sql 2s ease;
 }
+.mongo {
+   width: 55%;
+   -moz-animation: sql 2s ease;
+   -webkit-animation: sql 2s ease;
+}
 .html {
    width: 55%;
    -moz-animation: html 2s ease;
@@ -396,6 +401,10 @@ ul.a {
    100% { width: 70%;  }
 }
 @-moz-keyframes sql {
+   0%   { width: 0px;  }
+   100% { width: 55%;  }
+}
+@-moz-keyframes mongo {
    0%   { width: 0px;  }
    100% { width: 55%;  }
 }
